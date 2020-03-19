@@ -1,0 +1,23 @@
+Username: 0               koko_socks
+1             chikadze_gio
+2                  part_ly
+3     irakli_bochorishvili
+4       gigs_mghebrishvili
+              ...         
+80       niko_zedelashvili
+81           j__generation
+82      whodissalekssandre
+83       luka.tatishvili12
+84       sandroanjafaridze
+Name:  Username, Length: 85, dtype: object       Index: 0     0.191367
+1     0.196137
+2     0.206861
+3     0.647059
+4     7.479532
+        ...   
+80    1.211382
+81    0.754167
+82    2.072115
+83    0.576687
+84    0.689655
+Length: 85, dtype: float64

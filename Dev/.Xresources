@@ -1,0 +1,54 @@
+URxvt.font: xft:monospace:size=16
+URxvt.scrollBar: false
+URxvt.geometry: 64x22
+URxvt.scrollTtyKeypress: true
+URxvt.scrollTtyOutput: false
+URxvt.scrollWithBuffer: false
+URxvt.fading: 30
+URxvt.foreground: #ebf1db
+URxvt.background: #29262d
+URxvt.scrollColor: #0104e0
+URxvt.highlightColor: #252935
+URxvt.highlightTextColor: #C0C5CE
+URxvt.color0: #29262d
+URxvt.color1: #2a5491
+URxvt.color2: #237986
+URxvt.color3: #a03b1e
+URxvt.color4: #484d79
+URxvt.color5: #c59820
+URxvt.color6: #b02f30
+URxvt.color7: #9ea7a6
+URxvt.color8: #3f4944
+URxvt.color9: #2a5491
+URxvt.color10: #237986
+URxvt.color11: #a03b1e
+URxvt.color12: #484d79
+URxvt.color13: #c59820
+URxvt.color14: #b02f30
+URxvt.color15: #ebf1db
+URxvt.color16: #f99170
+URxvt.color17: #fcc09e
+URxvt.color18: #1f222d
+URxvt.color19: #252936
+URxvt.color20: #C0C5CE
+URxvt.color21: #C9CCDB
+
+URxvt.perl-ext-common: default,matcher,tabbed,clipboard,resize-font
+
+URxvt.url-launcher:   firefox
+URxvt.underlineURLs:  True
+URxvt.matcher.button: 1 
+
+URxvt.tabbed.tabbar-fg: 14
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fb: 15
+URxvt.tabbed.tab-bg: 8
+
+URxvt.clipboard.autocopy: false
+URxvt.keysym.C-c: perl:clipboard:copy
+URxvt.keysym.C-v: perl:clipboard:paste
+
+URxvt.depth: 32
+
+URxvt.termName: rxvt-unicode
+URxvt.iconFile:    terminal_icon.svg
